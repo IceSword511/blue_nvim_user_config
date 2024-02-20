@@ -13,6 +13,7 @@ return {
   { import = "astrocommunity.pack.ansible" },
   { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.lua" },
+  { import = "astrocommunity.pack.toml" },
   { import = "astrocommunity.split-and-window.edgy-nvim" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
 }
